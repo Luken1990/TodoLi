@@ -35,14 +35,14 @@ The Todo Application is a modern and user-friendly web application built using t
    - Create a folder in your local machine to clone the client and server repositories
    - Using using Gitbash / terminal navigate to the folder.
    - Enter the following command: git clone https://github.com/Luken1990/TodoLi.git
-
-![React-App (1)](https://github.com/Luken1990/TodoLi/assets/23103970/9391e46b-03cd-4f2a-8587-68a3346c58b4)
-
 3. Install NodeJs: https://nodejs.org/en/download/
 4. Open your IDE, navigate to the folder/file.
 5. Install all dependencies enter: npm install
 6. Navigate to the server folder create a .env (environment variable) and input MONGO_URL: you api key and JWT_SECRET: your secret key
 7. Start your server: npm start
 8. Start your client: npm start
+
+
+![React-App (1)](https://github.com/Luken1990/TodoLi/assets/23103970/954f3fbb-7675-4b23-ba74-4b3bbb6545ca)
 
 
